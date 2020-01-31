@@ -1,0 +1,8 @@
+GIT CMD COMMANDS
+
+git init
+cd..
+cd
+mkdir GIT
+git add . - used to add a file to the repository jjust that the file remains noticed but not (saved/commit)
+git commit -m"dictionary files committed" = to commit the file 
